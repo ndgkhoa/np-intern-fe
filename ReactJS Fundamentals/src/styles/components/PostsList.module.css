@@ -1,0 +1,40 @@
+.container {
+    margin: 0 auto;
+    width: max-content;
+}
+
+.table {
+    width: 1024px;
+    height: 100px;
+    margin: 15px 0;
+}
+
+.index {
+    width: 80px;
+    height: 80px;
+    font-size: 32px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.title:hover {
+    color: #007aff;
+    cursor: pointer;
+}
+
+.button {
+    width: 25px;
+    height: 25px;
+    margin: 20px 10px 20px 0px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.active {
+    color: #007aff;
+    background-color: #ffffff;
+    border-color: #007aff;
+}
